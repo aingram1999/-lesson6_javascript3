@@ -4,20 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 15, 2018
 
 ### Student Name:  
-(First and Last Name)
+Andrew Ingram
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+ The purpose of this assignment is to learn how to use javascript to show more photos in a slideshow then there were before.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://aingram1999.github.io/-lesson6_javascript3/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1. The first concept I learned was the function that I was able to use to preview five pics instead of 3.
+2. I learned how to use the document.createElement() method.
+3. I also learned how to edit an element that I created using javascript.
